@@ -11,4 +11,4 @@ ApplicationCore project contains all the DTO classes, entity classes and the int
 
 Infrastructure project contains all the repositories and the BookStoreContext.
 
-BooksWebAPi project contains the controller clases.
+BooksWebAPi project contains the controller classes.
